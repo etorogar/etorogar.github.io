@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "etorogar"
+  github           :
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -257,8 +257,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
   # _publications
   - scope:
       path: ""
@@ -266,8 +266,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      # share: false
+      # comments: false
   # _portfolio
   - scope:
       path: ""
@@ -275,8 +275,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      # share: true
+      # comment: true
   # _talks
   - scope:
       path: ""
