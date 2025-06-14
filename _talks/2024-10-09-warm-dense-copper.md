@@ -3,7 +3,7 @@ title: "Warm Dense Copper conductivity measurements using single-shot THz spectr
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-09-warm-dense-copper
-# venue: "UC-Berkeley Institute for Testing Science"
+venue: "66th Annual Meeting of the APS Division of Plasma Physics "
 date: 2024-10-09
 # location: "Berkeley, CA, USA"
 ---
