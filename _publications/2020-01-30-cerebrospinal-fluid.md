@@ -3,7 +3,7 @@ title: "Cerebrospinal fluid influx drives acute ischemic tissue swelling"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-30-cerebrospinal-fluid
-excerpt: 'My paper with the most citations'
+excerpt: 'test'
 date: 2020-01-30
 venue: 'Science'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
