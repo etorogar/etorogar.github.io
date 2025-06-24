@@ -1,15 +1,12 @@
 ---
-title: "Warm Dense Copper conductivity measurements using single-shot THz spectroscopy"
+title: "Warm Dense Copper Conductivity Measurements Using Single-shot THz Spectroscopy"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-10-09-warm-dense-copper
-venue: "66th Annual Meeting of the APS Division of Plasma Physics "
+# permalink: /talks/2024-10-09-warm-dense-copper
+venue: "66th Annual Meeting of the APS Division of Plasma Physics"
 date: 2024-10-09
-# location: "Berkeley, CA, USA"
+location: "Atlanta, Georgia"
 ---
 
 [More information here](https://meetings.aps.org/Meeting/DPP24/Session/NO09.7),
 [slides](/files/slides1.pdf)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files
-that can be all markdown-ified like any other post. Yay markdown!

@@ -3,7 +3,7 @@ title: "Cerebrospinal Fluid Is a Significant Fluid Source for Anoxic Cerebral Oe
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-28-cerebrospinal-fluid
-excerpt: "<img src='/images/publications/2021-09-28-cerebrospinal-fluid.png' width='600'><br/>
+excerpt: "<img src='/images/publications/2021-09-28-cerebrospinal-fluid.png' width='600'><br/><br/>
 Oedema, or swelling caused by fluid accumulation in the brain tissues, is investigated
 following cardiac arrest. The study finds that cerebrospinal fluid (CSF), which plays a role in
 cleaning metabolic products from the brain, is the primary source of brain oedema in cases of

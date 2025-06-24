@@ -1,6 +1,6 @@
 ---
 title: "Senior design - LUVOIR (2019)"
-excerpt: "<img src='/images/portofolio/Senior.gif' width='600'><br/>
+excerpt: "<img src='/images/portofolio/Senior.gif' width='600'><br/><br/>
 The Large UV Optical Infrared Surveyor (LUVOIR) is a proposed NASA mission concept for a
 next-generation, multi-wavelength space telescope designed to succeed the James Webb Space
 Telescope. Two primary architectures are under consideration: one with a 15-meter aperture and

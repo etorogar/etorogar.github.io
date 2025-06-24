@@ -3,8 +3,8 @@ title: "Combustion of Lean Ammonia-Hydrogen Fuel Blends in a Porous Media Burner
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-08-combustion-amonia
-excerpt: "<img src='/images/publications/2023-06-08-combustion-amonia.jpg' width='400'><br/>Ammonia
-offers a carbon-free fuel alternative. However, its low flame speed presents a significant
+excerpt: "<img src='/images/publications/2023-06-08-combustion-amonia.jpg' width='400'><br/><br/>
+Ammonia offers a carbon-free fuel alternative. However, its low flame speed presents a significant
 challenge for combustor stability. The study investigated the use of porous media burners to
 stabilize Ammonia/hydrogen/air flames."
 date: 2023-06-08

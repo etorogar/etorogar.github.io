@@ -3,7 +3,7 @@ title: "Improving Volume-Averaged Simulations of Matrix-Stabilized Combustion th
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-01-matrix-combustion
-excerpt: "<img src='/images/publications/2023-09-01-matrix-combustion.jpg' width='400'><br/>
+excerpt: "<img src='/images/publications/2023-09-01-matrix-combustion.jpg' width='400'><br/><br/>
 Volume-averaged simulations are used to predict the Porous media combustion of an
 ammonia/hydrogen/air mix. In this work, the modeling framework uses first-principles methods to
 determine effective properties. This framework relies on adequately characterizing the topology of

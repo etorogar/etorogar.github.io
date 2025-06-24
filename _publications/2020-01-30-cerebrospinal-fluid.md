@@ -3,7 +3,7 @@ title: "Cerebrospinal Fluid Influx Drives Acute Ischemic Tissue Swelling"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-30-cerebrospinal-fluid
-excerpt: "<img src='/images/publications/2020-01-30-cerebrospinal-fluid.gif' width='600'><br/>
+excerpt: "<img src='/images/publications/2020-01-30-cerebrospinal-fluid.gif' width='600'><br/><br/>
 The brain is enveloped in a cushion of cerebrospinal fluid (CSF), which has been shown to
 play unexpected roles in neurodegeneration and sleep. Through in vivo imaging, we found that after
 a stroke, abnormal volumes of CSF rush through the brain, causing swelling."
